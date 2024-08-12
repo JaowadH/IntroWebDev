@@ -1,0 +1,59 @@
+[
+    {
+      "fname": "Liam",
+      "lname": "Anderson",
+      "gender": "male",
+      "birthday": "1988-03-10",
+      "status": "married",
+      "salary": 75000
+    },
+    {
+      "fname": "Emily",
+      "lname": "Nguyen",
+      "gender": "female",
+      "birthday": "1993-06-25",
+      "status": "single",
+      "salary": 65000
+    },
+    {
+      "fname": "Carlos",
+      "lname": "Hernandez",
+      "gender": "male",
+      "birthday": "1982-11-18",
+      "status": "married",
+      "salary": 95000
+    },
+    {
+      "fname": "Aisha",
+      "lname": "Khan",
+      "gender": "female",
+      "birthday": "1996-09-09",
+      "status": "single",
+      "salary": 72000
+    },
+    {
+      "fname": "Jordan",
+      "lname": "Taylor",
+      "gender": "non-binary",
+      "birthday": "2001-04-30",
+      "status": "single",
+      "salary": 48000
+    },
+    {
+      "fname": "Sophia",
+      "lname": "Garcia",
+      "gender": "female",
+      "birthday": "1989-12-14",
+      "status": "married",
+      "salary": 85000
+    },
+    {
+      "fname": "Arjun",
+      "lname": "Patel",
+      "gender": "male",
+      "birthday": "1994-08-05",
+      "status": "single",
+      "salary": 68000
+    }
+]
+
